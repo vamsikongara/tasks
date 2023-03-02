@@ -1,0 +1,12 @@
+step-1:Declare two variables max and second max and initialize them with integer minimum possible value.
+
+step-2:Traverse an array and compare each element of an array with the value assigned to max variable. If current element is greater than the value assigned at max variable.follow step-3 and 
+step-4
+
+step-3:In second max variable, assign the value present at max variable.
+
+step-4:In max variable, assign the current index value.
+
+step-5:We have to do one more comparison that if current index value is less than max and greater than the value assigned at second max. Then, assign current index value at second max variable.
+
+step-6After complete iteration print the second max element of an array.
